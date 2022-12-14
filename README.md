@@ -2,7 +2,7 @@
 - 👀 Being able tae edit configs with confidence.
 - 🌱 How tae use Linux beyond just aesthetics.
 - 💞️ I'm really nae at that point yet.
-- 📫 mkpm@pm.me
+- 📫 github.6n7fe@simplelogin.com
 
 <!---
 Papigoe/Papigoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
